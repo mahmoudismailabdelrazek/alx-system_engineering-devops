@@ -1,0 +1,2 @@
+#!/bin/bash
+printf("float %.2f",$NUM)
